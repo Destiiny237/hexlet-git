@@ -1,1 +1,2 @@
 Hello, Hexlet!
+Some information
